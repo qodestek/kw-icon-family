@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of kw-icons
+ */
+export * from './lib/kw-icons.service';
+export * from './lib/kw-icons.component';
+export * from './lib/kw-icons.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL2t3LWljb25zL3NyYy9wdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYyx3QkFBd0IsQ0FBQztBQUN2QyxjQUFjLDBCQUEwQixDQUFDO0FBQ3pDLGNBQWMsdUJBQXVCLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIGt3LWljb25zXG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9saWIva3ctaWNvbnMuc2VydmljZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9rdy1pY29ucy5jb21wb25lbnQnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIva3ctaWNvbnMubW9kdWxlJztcbiJdfQ==
