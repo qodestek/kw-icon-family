@@ -1,5 +1,0 @@
-/*
- * Public API Surface of kw-icons
- */
-export * from './lib/kw-icons.module';
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL2t3LWljb25zL3NyYy9wdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYyx1QkFBdUIsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXHJcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiBrdy1pY29uc1xyXG4gKi9cclxuXHJcbmV4cG9ydCAqIGZyb20gJy4vbGliL2t3LWljb25zLm1vZHVsZSc7XHJcbiJdfQ==
