@@ -1,0 +1,16 @@
+{
+  "$schema": "../../node_modules/ng-packagr/ng-package.schema.json",
+  "dest": "../../dist/kw-icons",
+  "lib": {
+    "entryFile": "src/public-api.ts"
+  },
+  "assets": [
+    "./src/kw-icon-font/iconly.css",
+    "./src/kw-icon-font/iconly.eot",
+    "./src/kw-icon-font/iconly.min.css",
+    "./src/kw-icon-font/iconly.svg",
+    "./src/kw-icon-font/iconly.woff",
+    "./src/kw-icon-font/iconly.ttf",
+    "./src/kw-icon-font/iconly.woff2"
+  ]
+}
