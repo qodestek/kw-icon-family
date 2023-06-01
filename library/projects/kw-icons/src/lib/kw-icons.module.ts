@@ -1,16 +1,8 @@
 import { NgModule } from '@angular/core';
-import { KwIconsComponent } from './kw-icons.component';
-
-
 
 @NgModule({
-  declarations: [
-    KwIconsComponent
-  ],
-  imports: [
-  ],
-  exports: [
-    KwIconsComponent
-  ]
+  declarations: [],
+  imports: [],
+  exports: [],
 })
-export class KwIconsModule { }
+export class KwIconsModule {}
