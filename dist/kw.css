@@ -3,19 +3,19 @@
   font-family: "kw-icon";
   font-style: normal;
   font-weight: 400;
-  src: url("./kw.eot?1687341654186");
+  src: url("./kw.eot?1687810974570");
   src: url("./kw.eot?#iefix") format("embedded-opentype"),
-    url("./kw.woff2?1687341654186") format("woff2"),
-    url("./kw.woff?1687341654186") format("woff"),
-    url("./kw.ttf?1687341654186") format("truetype"),
-    url("./kw.svg?1687341654186#kw-icon") format("svg");
+    url("./kw.woff2?1687810974570") format("woff2"),
+    url("./kw.woff?1687810974570") format("woff"),
+    url("./kw.ttf?1687810974570") format("truetype"),
+    url("./kw.svg?1687810974570#kw-icon") format("svg");
 }
 
 [class="kw"],
 [class^="kw-"],
 [class*=" kw-"] {
   display: inline-block;
-  font-family: "kw-icon" !important;
+  font-family: "kw-icon";
   font-weight: 400;
   font-style: normal;
   font-variant: normal;
@@ -4955,4 +4955,8 @@
 
 .kw-fill-star:before {
   content: "\e4d0";
+}
+
+.kw-hart-fill:before {
+  content: "\e4d1";
 }
