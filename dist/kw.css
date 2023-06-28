@@ -1,14 +1,18 @@
+/*!
+ *  kw-icon icon font. 
+ */
+
 @font-face {
   font-display: auto;
   font-family: "kw-icon";
   font-style: normal;
   font-weight: 400;
-  src: url("./kw.eot?1687810974570");
+  src: url("./kw.eot?1687958471578");
   src: url("./kw.eot?#iefix") format("embedded-opentype"),
-    url("./kw.woff2?1687810974570") format("woff2"),
-    url("./kw.woff?1687810974570") format("woff"),
-    url("./kw.ttf?1687810974570") format("truetype"),
-    url("./kw.svg?1687810974570#kw-icon") format("svg");
+    url("./kw.woff2?1687958471578") format("woff2"),
+    url("./kw.woff?1687958471578") format("woff"),
+    url("./kw.ttf?1687958471578") format("truetype"),
+    url("./kw.svg?1687958471578#kw-icon") format("svg");
 }
 
 [class="kw"],
@@ -4953,10 +4957,14 @@
   content: "\e4cf";
 }
 
-.kw-fill-star:before {
+.kw-rating-star:before {
   content: "\e4d0";
 }
 
 .kw-hart-fill:before {
   content: "\e4d1";
+}
+
+.kw-fill-rating-star:before {
+  content: "\e4d2";
 }
