@@ -7,12 +7,12 @@
   font-family: "kw-icon";
   font-style: normal;
   font-weight: 400;
-  src: url("./kw.eot?1687958471578");
+  src: url("./kw.eot?1688460946218");
   src: url("./kw.eot?#iefix") format("embedded-opentype"),
-    url("./kw.woff2?1687958471578") format("woff2"),
-    url("./kw.woff?1687958471578") format("woff"),
-    url("./kw.ttf?1687958471578") format("truetype"),
-    url("./kw.svg?1687958471578#kw-icon") format("svg");
+    url("./kw.woff2?1688460946218") format("woff2"),
+    url("./kw.woff?1688460946218") format("woff"),
+    url("./kw.ttf?1688460946218") format("truetype"),
+    url("./kw.svg?1688460946218#kw-icon") format("svg");
 }
 
 [class="kw"],
@@ -4967,4 +4967,8 @@
 
 .kw-fill-rating-star:before {
   content: "\e4d2";
+}
+
+.kw-language:before {
+  content: "\e4d3";
 }
