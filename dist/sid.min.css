@@ -1,5 +1,5 @@
 /*!
- *  sid-icon  v0.0.1
+ *  sid-icon  v0.0.2
  *  sid-icon icon font.
  */
 @font-face {
@@ -3735,3 +3735,4 @@
 .sid-language:before {
   content: "\e4d3";
 }
+/*# sourceMappingURL=sid.min.css */
