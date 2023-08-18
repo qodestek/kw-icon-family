@@ -1,5 +1,5 @@
 /*!
- *  kw-icon  v0.1.0
+ *  kw-icon  v0.1.1
  *  kw-icon icon font.
  */
 @font-face {
@@ -7,12 +7,12 @@
   font-family: "kw-icon";
   font-style: normal;
   font-weight: 400;
-  src: url(./kw.eot?1691526428426);
+  src: url(./kw.eot?1692173451313);
   src: url(./kw.eot?#iefix) format("embedded-opentype"),
-    url(./kw.woff2?1691526428426) format("woff2"),
-    url(./kw.woff?1691526428426) format("woff"),
-    url(./kw.ttf?1691526428426) format("truetype"),
-    url(./kw.svg?1691526428426#kw-icon) format("svg");
+    url(./kw.woff2?1692173451313) format("woff2"),
+    url(./kw.woff?1692173451313) format("woff"),
+    url(./kw.ttf?1692173451313) format("truetype"),
+    url(./kw.svg?1692173451313#kw-icon) format("svg");
 }
 [class*=" kw-"],
 [class="kw"],
@@ -3699,7 +3699,7 @@
 .kw-skill-india-map:before {
   content: "\e4c7";
 }
-.kw-reviews-1:before {
+.kw-trainer:before {
   content: "\e4c8";
 }
 .kw-fill-users:before {
@@ -3753,4 +3753,30 @@
 .kw-dahboard-2:before {
   content: "\e4d9";
 }
-/*# sourceMappingURL=kw.min.css */
+.kw-home-fill:before {
+  content: "\e4da";
+}
+.kw-mobiliser:before {
+  content: "\e4db";
+}
+.kw-learning-partner:before {
+  content: "\e4dc";
+}
+.kw-training-partner-2:before {
+  content: "\e4dd";
+}
+.kw-assessor-1:before {
+  content: "\e4de";
+}
+.kw-awarding-body:before {
+  content: "\e4df";
+}
+.kw-assessment-agency:before {
+  content: "\e4e0";
+}
+.kw-adimn:before {
+  content: "\e4e1";
+}
+.kw-user-fill:before {
+  content: "\e4e2";
+}
