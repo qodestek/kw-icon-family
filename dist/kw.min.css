@@ -1,5 +1,5 @@
 /*!
- *  kw-icon  v0.1.1
+ *  kw-icon  v0.1.2
  *  kw-icon icon font.
  */
 @font-face {
@@ -7,12 +7,12 @@
   font-family: "kw-icon";
   font-style: normal;
   font-weight: 400;
-  src: url(./kw.eot?1692173451313);
+  src: url(./kw.eot?1693551594415);
   src: url(./kw.eot?#iefix) format("embedded-opentype"),
-    url(./kw.woff2?1692173451313) format("woff2"),
-    url(./kw.woff?1692173451313) format("woff"),
-    url(./kw.ttf?1692173451313) format("truetype"),
-    url(./kw.svg?1692173451313#kw-icon) format("svg");
+    url(./kw.woff2?1693551594415) format("woff2"),
+    url(./kw.woff?1693551594415) format("woff"),
+    url(./kw.ttf?1693551594415) format("truetype"),
+    url(./kw.svg?1693551594415#kw-icon) format("svg");
 }
 [class*=" kw-"],
 [class="kw"],
@@ -3768,9 +3768,6 @@
 .kw-assessor-1:before {
   content: "\e4de";
 }
-.kw-awarding-body:before {
-  content: "\e4df";
-}
 .kw-assessment-agency:before {
   content: "\e4e0";
 }
@@ -3779,5 +3776,98 @@
 }
 .kw-user-fill:before {
   content: "\e4e2";
+}
+.kw-whatsapp:before {
+  content: "\e4e3";
+}
+.kw-twitter:before {
+  content: "\e4e4";
+}
+.kw-twitter-logo-new:before {
+  content: "\e4e5";
+}
+.kw-svgexport-67:before {
+  content: "\e4e6";
+}
+.kw-linkedin:before {
+  content: "\e4e7";
+}
+.kw-fb:before {
+  content: "\e4e8";
+}
+.kw-building-1:before {
+  content: "\e4ea";
+}
+.kw-user-graduate:before {
+  content: "\e4eb";
+}
+.kw-setting-tools:before {
+  content: "\e4ec";
+}
+.kw-self-assessment:before {
+  content: "\e4ed";
+}
+.kw-network-1:before {
+  content: "\e4ee";
+}
+.kw-university-4:before {
+  content: "\e4ef";
+}
+.kw-self-assessment-2:before {
+  content: "\e4f2";
+}
+.kw-employee-3:before {
+  content: "\e4f3";
+}
+.kw-class-scene:before {
+  content: "\e4f4";
+}
+.kw-businessman-ceo-representative-boss:before {
+  content: "\e4f5";
+}
+.kw-building:before {
+  content: "\e4f6";
+}
+.kw-pmkvy:before {
+  content: "\e4f7";
+}
+.kw-map-location-2:before {
+  content: "\e4f8";
+}
+.kw-job-search-symbol-of-a-man-with-dollar-coin:before {
+  content: "\e4fa";
+}
+.kw-industry:before {
+  content: "\e4fb";
+}
+.kw-handshake-solid-1-2:before {
+  content: "\e4fc";
+}
+.kw-give-location-share:before {
+  content: "\e4fd";
+}
+.kw-employment-opportunity-1:before {
+  content: "\e4fe";
+}
+.kw-employee-organization:before {
+  content: "\e4ff";
+}
+.kw-employee-contact:before {
+  content: "\e500";
+}
+.kw-employee-3-2:before {
+  content: "\e501";
+}
+.kw-document-round:before {
+  content: "\e502";
+}
+.kw-class-1:before {
+  content: "\e504";
+}
+.kw-certificate-online-achievement:before {
+  content: "\e505";
+}
+.kw-businessman-ceo-representative-boss-2:before {
+  content: "\e506";
 }
 /*# sourceMappingURL=kw.min.css */
